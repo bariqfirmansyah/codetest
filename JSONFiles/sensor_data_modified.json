@@ -1,0 +1,332 @@
+{
+  "('roomArea1', datetime.date(2020, 7, 2))":{
+    "('temperature', 'mean')":20.975726346,
+    "('temperature', 'min')":17.1749489514,
+    "('temperature', 'max')":26.6737043854,
+    "('temperature', 'median')":20.8534597261,
+    "('humidity', 'mean')":92.2552010302,
+    "('humidity', 'min')":87.1135114492,
+    "('humidity', 'max')":96.7640612523,
+    "('humidity', 'median')":92.0715017759
+  },
+  "('roomArea1', datetime.date(2020, 7, 3))":{
+    "('temperature', 'mean')":21.688644721,
+    "('temperature', 'min')":17.005340237,
+    "('temperature', 'max')":26.769534267,
+    "('temperature', 'median')":21.4375773039,
+    "('humidity', 'mean')":91.7996540623,
+    "('humidity', 'min')":87.4860244733,
+    "('humidity', 'max')":96.7368132585,
+    "('humidity', 'median')":92.1737404052
+  },
+  "('roomArea1', datetime.date(2020, 7, 4))":{
+    "('temperature', 'mean')":21.827394042,
+    "('temperature', 'min')":17.0600484306,
+    "('temperature', 'max')":26.9072011119,
+    "('temperature', 'median')":21.6263579309,
+    "('humidity', 'mean')":91.2891567165,
+    "('humidity', 'min')":87.1752408199,
+    "('humidity', 'max')":96.9198212076,
+    "('humidity', 'median')":90.9599303287
+  },
+  "('roomArea1', datetime.date(2020, 7, 5))":{
+    "('temperature', 'mean')":22.0542181671,
+    "('temperature', 'min')":17.0511646725,
+    "('temperature', 'max')":26.8939660593,
+    "('temperature', 'median')":21.7439756739,
+    "('humidity', 'mean')":91.7521731093,
+    "('humidity', 'min')":87.3803098167,
+    "('humidity', 'max')":96.9097044401,
+    "('humidity', 'median')":91.8621726445
+  },
+  "('roomArea1', datetime.date(2020, 7, 6))":{
+    "('temperature', 'mean')":22.1344176007,
+    "('temperature', 'min')":17.1153790218,
+    "('temperature', 'max')":26.6936667705,
+    "('temperature', 'median')":22.1957803018,
+    "('humidity', 'mean')":92.3629631251,
+    "('humidity', 'min')":87.3843776415,
+    "('humidity', 'max')":96.9995429785,
+    "('humidity', 'median')":92.4464740973
+  },
+  "('roomArea1', datetime.date(2020, 7, 7))":{
+    "('temperature', 'mean')":21.3269259447,
+    "('temperature', 'min')":17.2185848324,
+    "('temperature', 'max')":26.9661500008,
+    "('temperature', 'median')":20.8751756017,
+    "('humidity', 'mean')":92.2030281576,
+    "('humidity', 'min')":87.2334097276,
+    "('humidity', 'max')":96.8591038847,
+    "('humidity', 'median')":92.4552954451
+  },
+  "('roomArea1', datetime.date(2020, 7, 8))":{
+    "('temperature', 'mean')":21.8949503579,
+    "('temperature', 'min')":17.4348264046,
+    "('temperature', 'max')":26.9122321801,
+    "('temperature', 'median')":21.4765744045,
+    "('humidity', 'mean')":92.367943207,
+    "('humidity', 'min')":87.3385901321,
+    "('humidity', 'max')":96.5424383985,
+    "('humidity', 'median')":92.5884608315
+  },
+  "('roomArea1', datetime.date(2020, 7, 9))":{
+    "('temperature', 'mean')":22.4473412364,
+    "('temperature', 'min')":17.3282600612,
+    "('temperature', 'max')":26.9803596714,
+    "('temperature', 'median')":23.619499204,
+    "('humidity', 'mean')":92.3840845331,
+    "('humidity', 'min')":87.3637977077,
+    "('humidity', 'max')":96.7557617142,
+    "('humidity', 'median')":92.4728463294
+  },
+  "('roomArea1', datetime.date(2020, 7, 10))":{
+    "('temperature', 'mean')":21.5273576282,
+    "('temperature', 'min')":17.1166076681,
+    "('temperature', 'max')":26.9435622744,
+    "('temperature', 'median')":21.0124362176,
+    "('humidity', 'mean')":92.3935864043,
+    "('humidity', 'min')":87.128247386,
+    "('humidity', 'max')":96.9418170164,
+    "('humidity', 'median')":92.940806175
+  },
+  "('roomArea1', datetime.date(2020, 7, 11))":{
+    "('temperature', 'mean')":22.2821618886,
+    "('temperature', 'min')":17.131516143,
+    "('temperature', 'max')":26.8121077481,
+    "('temperature', 'median')":22.0919638893,
+    "('humidity', 'mean')":91.9408606349,
+    "('humidity', 'min')":87.1332556178,
+    "('humidity', 'max')":96.7967826019,
+    "('humidity', 'median')":91.889241389
+  },
+  "('roomArea1', datetime.date(2020, 7, 12))":{
+    "('temperature', 'mean')":22.995578687,
+    "('temperature', 'min')":17.3547964164,
+    "('temperature', 'max')":26.7776062049,
+    "('temperature', 'median')":23.6820220434,
+    "('humidity', 'mean')":91.9806103647,
+    "('humidity', 'min')":87.0329322417,
+    "('humidity', 'max')":95.953356367,
+    "('humidity', 'median')":91.9643318936
+  },
+  "('roomArea2', datetime.date(2020, 7, 2))":{
+    "('temperature', 'mean')":21.6936971106,
+    "('temperature', 'min')":17.2570165211,
+    "('temperature', 'max')":26.7297413854,
+    "('temperature', 'median')":21.2843624539,
+    "('humidity', 'mean')":91.9701064216,
+    "('humidity', 'min')":87.4252670204,
+    "('humidity', 'max')":96.9496860158,
+    "('humidity', 'median')":91.8886300109
+  },
+  "('roomArea2', datetime.date(2020, 7, 3))":{
+    "('temperature', 'mean')":21.4464518252,
+    "('temperature', 'min')":17.1089714148,
+    "('temperature', 'max')":26.3786755386,
+    "('temperature', 'median')":21.1930566522,
+    "('humidity', 'mean')":92.6835020606,
+    "('humidity', 'min')":87.0079603712,
+    "('humidity', 'max')":96.7361518725,
+    "('humidity', 'median')":93.104770659
+  },
+  "('roomArea2', datetime.date(2020, 7, 4))":{
+    "('temperature', 'mean')":21.9619806221,
+    "('temperature', 'min')":17.1336613467,
+    "('temperature', 'max')":26.6145638705,
+    "('temperature', 'median')":21.2301752367,
+    "('humidity', 'mean')":91.779957311,
+    "('humidity', 'min')":87.0396481087,
+    "('humidity', 'max')":96.6095888631,
+    "('humidity', 'median')":91.9756203005
+  },
+  "('roomArea2', datetime.date(2020, 7, 5))":{
+    "('temperature', 'mean')":21.5484217467,
+    "('temperature', 'min')":17.2718881015,
+    "('temperature', 'max')":26.6522192422,
+    "('temperature', 'median')":21.4992091225,
+    "('humidity', 'mean')":91.9859217224,
+    "('humidity', 'min')":87.2238541724,
+    "('humidity', 'max')":96.5797297702,
+    "('humidity', 'median')":92.0447450182
+  },
+  "('roomArea2', datetime.date(2020, 7, 6))":{
+    "('temperature', 'mean')":22.902400981,
+    "('temperature', 'min')":17.1285933045,
+    "('temperature', 'max')":26.8241738328,
+    "('temperature', 'median')":23.0883822067,
+    "('humidity', 'mean')":91.5410096874,
+    "('humidity', 'min')":87.1530706449,
+    "('humidity', 'max')":96.9466362244,
+    "('humidity', 'median')":90.8817093337
+  },
+  "('roomArea2', datetime.date(2020, 7, 7))":{
+    "('temperature', 'mean')":21.9362410385,
+    "('temperature', 'min')":17.2124463498,
+    "('temperature', 'max')":26.7597666701,
+    "('temperature', 'median')":22.2486599959,
+    "('humidity', 'mean')":92.0585053417,
+    "('humidity', 'min')":87.2989537855,
+    "('humidity', 'max')":96.7876661136,
+    "('humidity', 'median')":91.9117594505
+  },
+  "('roomArea2', datetime.date(2020, 7, 8))":{
+    "('temperature', 'mean')":22.0682241828,
+    "('temperature', 'min')":17.0852485337,
+    "('temperature', 'max')":26.7924679461,
+    "('temperature', 'median')":22.5668045916,
+    "('humidity', 'mean')":92.0758794216,
+    "('humidity', 'min')":87.242140278,
+    "('humidity', 'max')":96.692818816,
+    "('humidity', 'median')":91.7971437611
+  },
+  "('roomArea2', datetime.date(2020, 7, 9))":{
+    "('temperature', 'mean')":22.5102511249,
+    "('temperature', 'min')":17.0558077707,
+    "('temperature', 'max')":26.9992873731,
+    "('temperature', 'median')":22.6084107292,
+    "('humidity', 'mean')":91.790201687,
+    "('humidity', 'min')":87.0421870107,
+    "('humidity', 'max')":96.7543551203,
+    "('humidity', 'median')":91.5642161429
+  },
+  "('roomArea2', datetime.date(2020, 7, 10))":{
+    "('temperature', 'mean')":21.8028953893,
+    "('temperature', 'min')":17.0339496693,
+    "('temperature', 'max')":26.9487419674,
+    "('temperature', 'median')":22.0933836958,
+    "('humidity', 'mean')":91.8951162886,
+    "('humidity', 'min')":87.0323229372,
+    "('humidity', 'max')":96.9370156706,
+    "('humidity', 'median')":91.7868582381
+  },
+  "('roomArea2', datetime.date(2020, 7, 11))":{
+    "('temperature', 'mean')":22.847853812,
+    "('temperature', 'min')":17.4173605667,
+    "('temperature', 'max')":26.9417926828,
+    "('temperature', 'median')":22.8268014099,
+    "('humidity', 'mean')":92.352712431,
+    "('humidity', 'min')":87.0959275567,
+    "('humidity', 'max')":96.4789932289,
+    "('humidity', 'median')":92.4111634329
+  },
+  "('roomArea2', datetime.date(2020, 7, 12))":{
+    "('temperature', 'mean')":20.6327940313,
+    "('temperature', 'min')":17.5154409985,
+    "('temperature', 'max')":25.7644044509,
+    "('temperature', 'median')":19.7198491523,
+    "('humidity', 'mean')":90.5612310252,
+    "('humidity', 'min')":87.9027971457,
+    "('humidity', 'max')":96.6966496834,
+    "('humidity', 'median')":89.8126293375
+  },
+  "('roomArea3', datetime.date(2020, 7, 2))":{
+    "('temperature', 'mean')":21.9816838648,
+    "('temperature', 'min')":17.126252863,
+    "('temperature', 'max')":25.9333173136,
+    "('temperature', 'median')":22.1969233443,
+    "('humidity', 'mean')":92.2202895131,
+    "('humidity', 'min')":87.2530826296,
+    "('humidity', 'max')":96.7969793246,
+    "('humidity', 'median')":91.9979362485
+  },
+  "('roomArea3', datetime.date(2020, 7, 3))":{
+    "('temperature', 'mean')":21.5993016539,
+    "('temperature', 'min')":17.2099845622,
+    "('temperature', 'max')":26.7862830699,
+    "('temperature', 'median')":21.5226060522,
+    "('humidity', 'mean')":91.2684266972,
+    "('humidity', 'min')":87.1053489688,
+    "('humidity', 'max')":96.9201645116,
+    "('humidity', 'median')":91.0595642146
+  },
+  "('roomArea3', datetime.date(2020, 7, 4))":{
+    "('temperature', 'mean')":21.8984031447,
+    "('temperature', 'min')":17.2194021775,
+    "('temperature', 'max')":26.8427865188,
+    "('temperature', 'median')":22.0202487568,
+    "('humidity', 'mean')":92.0764324011,
+    "('humidity', 'min')":87.5699599657,
+    "('humidity', 'max')":96.8858032497,
+    "('humidity', 'median')":91.8962711685
+  },
+  "('roomArea3', datetime.date(2020, 7, 5))":{
+    "('temperature', 'mean')":21.7186362033,
+    "('temperature', 'min')":17.1410402644,
+    "('temperature', 'max')":26.9790580666,
+    "('temperature', 'median')":21.2920969993,
+    "('humidity', 'mean')":91.6033561672,
+    "('humidity', 'min')":87.2664701788,
+    "('humidity', 'max')":96.7077552245,
+    "('humidity', 'median')":91.1478004241
+  },
+  "('roomArea3', datetime.date(2020, 7, 6))":{
+    "('temperature', 'mean')":21.6765444826,
+    "('temperature', 'min')":17.3926647737,
+    "('temperature', 'max')":26.9506206152,
+    "('temperature', 'median')":21.1755354952,
+    "('humidity', 'mean')":92.3780880939,
+    "('humidity', 'min')":87.1089053751,
+    "('humidity', 'max')":96.9210767472,
+    "('humidity', 'median')":92.9903286017
+  },
+  "('roomArea3', datetime.date(2020, 7, 7))":{
+    "('temperature', 'mean')":21.9686440194,
+    "('temperature', 'min')":17.4399805002,
+    "('temperature', 'max')":26.8549770129,
+    "('temperature', 'median')":21.7053787803,
+    "('humidity', 'mean')":92.5560337962,
+    "('humidity', 'min')":87.0260006948,
+    "('humidity', 'max')":96.718348612,
+    "('humidity', 'median')":93.2569375102
+  },
+  "('roomArea3', datetime.date(2020, 7, 8))":{
+    "('temperature', 'mean')":22.2069335757,
+    "('temperature', 'min')":17.0696300593,
+    "('temperature', 'max')":26.6855039987,
+    "('temperature', 'median')":22.9669853373,
+    "('humidity', 'mean')":92.1372743826,
+    "('humidity', 'min')":87.1920792564,
+    "('humidity', 'max')":96.9865975177,
+    "('humidity', 'median')":92.3881108073
+  },
+  "('roomArea3', datetime.date(2020, 7, 9))":{
+    "('temperature', 'mean')":22.1268006593,
+    "('temperature', 'min')":17.904846156,
+    "('temperature', 'max')":26.9538124483,
+    "('temperature', 'median')":22.6787286046,
+    "('humidity', 'mean')":92.4529557784,
+    "('humidity', 'min')":87.6838162021,
+    "('humidity', 'max')":96.7606677577,
+    "('humidity', 'median')":92.9046313804
+  },
+  "('roomArea3', datetime.date(2020, 7, 10))":{
+    "('temperature', 'mean')":21.7089901214,
+    "('temperature', 'min')":17.8413530852,
+    "('temperature', 'max')":26.8600200612,
+    "('temperature', 'median')":21.3847227764,
+    "('humidity', 'mean')":91.2115734939,
+    "('humidity', 'min')":87.0755972402,
+    "('humidity', 'max')":96.7164292016,
+    "('humidity', 'median')":90.8185811843
+  },
+  "('roomArea3', datetime.date(2020, 7, 11))":{
+    "('temperature', 'mean')":22.5906352846,
+    "('temperature', 'min')":17.4116020575,
+    "('temperature', 'max')":26.8045113667,
+    "('temperature', 'median')":22.9146196913,
+    "('humidity', 'mean')":91.4384869379,
+    "('humidity', 'min')":87.0865748567,
+    "('humidity', 'max')":96.9091709895,
+    "('humidity', 'median')":91.0320053918
+  },
+  "('roomArea3', datetime.date(2020, 7, 12))":{
+    "('temperature', 'mean')":21.1778254756,
+    "('temperature', 'min')":17.5466732266,
+    "('temperature', 'max')":26.9817930028,
+    "('temperature', 'median')":21.7160499463,
+    "('humidity', 'mean')":92.6449617731,
+    "('humidity', 'min')":87.3854605998,
+    "('humidity', 'max')":96.5064752953,
+    "('humidity', 'median')":93.9025086986
+  }
+}
